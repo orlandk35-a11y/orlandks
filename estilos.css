@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+
+    font-family: Verdana, serif;
+}
+
+header{
+    height: 70px;
+    line-height: 70px;
+    padding-left: 40px;
+
+    background: #2828ac;
+    color: #FFFFFF;
+
+    font-size: 3em;
+    font-weight: bold;
+
+margin-bottom: 50px;
+}
+
+section{
+
+}
+
+article img{
+    height: 100px;
+    width: 100px;
+}
+
+#no-wrap{
+    flex-wrap: nowrap;
+}
+
+#wrap{
+    flex-wrap: wrap;
+}
+
+img{
+    border: solid 5px #555;
+    margin: 10px;
+}
+
